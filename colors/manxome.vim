@@ -1,8 +1,8 @@
 """ local syntax file - set colors on a per-machine basis:
 """ Vim color file
 """ Title:			Manxome Foes Color Scheme
-""" Maintainer:		Ricardo SIGNES <samael-vim@lists.manxome.org>
-""" This Version:	R2 [2002-08-07]
+""" Maintainer:		Ricardo SIGNES <rjbs-vim@lists.manxome.org>
+""" This Version:	R2v2 [2003-07-16]
 """ suggested vim editing options: tw=0 ts=4 sw=4
 
 ""  clear and re-initialize global variables
